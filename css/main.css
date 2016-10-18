@@ -1,0 +1,27 @@
+html{
+  background-color:#dbd6cf;
+}
+
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header{
+  background-color:#79756f;
+  margin: 0;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
+}
+
+h1{
+  font-family: "Bevan";
+  color: #fff;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.nav{
+list-style-type: none;
+text-align: center;
+}
