@@ -1,4 +1,4 @@
-html{
+html {
   box-sizing: border-box;
   background-color:#dbd6cf;
 }
@@ -7,31 +7,33 @@ html{
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
   font-family: sans-serif;
 }
 
-header{
+header {
   background-color:#79756f;
   margin: 0;
   border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
 }
 
-h1{
+h1 {
   font-family: "Bevan", cursive;
   color: #fff;
-  padding: 0.5em;
   text-align: center;
+  margin: 0;
 }
 
-.nav{
+.nav {
+  margin: 0;
+  padding: 0;
 list-style-type: none;
 text-align: center;
 }
 
-.nav li{
+.nav li {
   display: inline-block;
   background-color: #713837;
   border-radius: 10px;
@@ -39,15 +41,16 @@ text-align: center;
   margin: 0 .5em 1em .5em;
 }
 
-.nav a{
+.nav a {
+  display: inline-block;
   padding: 0.75em;
   color: #fff;
   text-decoration: none;
-  border-radius: 4px;
-
+border-radius: 4px;
 }
 
 .nav a:hover {
+  display: inline-block;
   background-color: #f33;
 
 }
