@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color:#dbd6cf;
+  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
@@ -13,14 +13,14 @@ body {
 }
 
 header {
-  background-color:#79756f;
+  background-color: #79756f;
   margin: 0;
   border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
 }
 
 h1 {
-  font-family: "Bevan";
+  font-family: Bevan;
   color: #fff;
   text-align: center;
   margin: 0;
